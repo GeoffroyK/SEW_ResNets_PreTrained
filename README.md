@@ -1,10 +1,12 @@
 # SEW_ResNets_PreTrained
 
-| Model Name     | Top-1 Accuracy (val) | Download Link |
-|----------------|----------------------|----------------|
-| SEW-ResNet-18  |                      | [Download](#)  |
-| SEW-ResNet-34  |                      | [Download](#)  |
-| SEW-ResNet-50  |                      | [Download](#)  |
-| SEW-ResNet-101 |                      | [Download](#)  |
-| SEW-ResNet-152 |                      | [Download](#)  |
+This repository provide some Spike Element-Wise Resnets [original repo](https://github.com/fangwei123456/Spike-Element-Wise-ResNet) pretrained on ImageNet.
+
+| Model Name     | Top-1 Accuracy (val) | Skip Connection Function  | Download Link  |
+|----------------|----------------------|---------------------------|----------------|
+| SEW-ResNet-18  |                      | ADD                       | [Download](#)  |
+| SEW-ResNet-34  |                      | ADD                       | [Download](#)  |
+| SEW-ResNet-50  |                      | ADD                       | [Download](#)  |
+| SEW-ResNet-101 |                      | ADD                       | [Download](#)  |
+| SEW-ResNet-152 |                      | ADD                       | [Download](#)  |
 
